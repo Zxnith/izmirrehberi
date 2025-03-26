@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Ev"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/ev"/>
+    <item android:title="Arama"
+        android:icon="@drawable/baseline_search_24"
+        android:id="@+id/arama"/>
+    <item android:title="Etkinlik"
+        android:icon="@drawable/baseline_calendar_month_24"
+        android:id="@+id/etkinlik"/>
+    <item android:title="Favoriler"
+        android:icon="@drawable/baseline_favorite_24"
+        android:id="@+id/favoriler"/>
+    <item android:title="Hesap"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:id="@+id/hesap"/>
+</menu>

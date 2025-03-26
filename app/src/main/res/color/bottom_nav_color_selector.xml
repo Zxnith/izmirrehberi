@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#4678c0" android:state_checked="true" /> <!-- Simge seçiliyken kullanılan renk -->
+    <item android:color="#ffffff" android:state_checked="false" /> <!-- Simge seçili değilken kullanılan renk -->
+</selector>

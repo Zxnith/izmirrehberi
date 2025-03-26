@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">İzmir Rehberi</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alsancakAcikalma">Alsancak, İzmir ilinin Konak ilçesine bağlı bir mahalledir.[2] Alsancak Garı, Müjdeci Aziz Yuhanna Anglikan Kilisesi, Santissimo Rosario Kilisesi, Kordon, Gündoğdu Meydanı ve Kıbrıs Şehitleri Caddesi ile tanınmaktadır. </string>
+    <string name="kucukparkAciklama">Onbinlerce üniversite örencisi nedeniyle enerjisi yüksek bir kent olan Bornova’da, eğlencenin kalbi Küçükpark’ta atıyor. Çok sayıda kafe ve restoranın bulunduğu Küçükpark, günün her saatinde canlılığını koruyor.</string>
+    <string name="konakAciklama">"Konak, Türkiye'nin İzmir ilinin bir ilçesidir. Kuzeyinde İzmir Körfezi, kuzeydoğusunda Bayraklı, doğusunda Bornova, güneyinde Buca ve Karabağlar, batısında Balçova ilçeleri bulunmaktadır. "</string>
+    <string name="hasanagaAciklama">Hasanağa Bahçesi, Türkiye\'nin İzmir ilinin Buca ilçesinde bulunan bir parktır.Aliotti adlı Levanten bir iş insanına ait olan mülk, 1926\'da satılığa çıkarıldı ve Ödemiş\'in ileri gelenlerinden Sarıgöllü Hasan Ağa tarafından satın alındı. Bu dönemde Hasan Ağa tarafından halkın kullanımına açık tutuldu. Zamanla halk arasında \"Hasan Ağa Bahçesi\" olarak anılmaya başladı.</string>
+    <string name="asansorAciklama">Bu yapı, İzmir\'in zengin tarihini yansıtan eşsiz mimarisi, panoramik manzaraları ve kolay ulaşım sağlama amacıyla hala aktif olarak kullanılmakta olan bir asansör sistemiyle dikkat çeker. İzmir\'e gelen herkesin mutlaka görmesi gereken bu yapı, şehrin kültürel ve tarihi dokusunu keşfetmek için ideal bir başlangıç noktasıdır.</string>
+    <string name="efesAciklama">Antik dönemin en önemli merkezlerinden biri olan Efes, tarih öncesi dönemden başlayarak Helenistik, Roma, Doğu Roma, Beylikler ve Osmanlı dönemleri boyunca yaklaşık 9000 yıl kesintisiz yerleşim görmüş ve tarihinin tüm aşamalarında çok önemli bir liman kenti ve kültürel ve ticari merkez olmuştur.</string>
+</resources>

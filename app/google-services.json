@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89626897649",
+    "project_id": "izmir-rehberi",
+    "storage_bucket": "izmir-rehberi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89626897649:android:18ade8a70f17785ba88d50",
+        "android_client_info": {
+          "package_name": "com.example.giris_sayfasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxEfRDLeFI2Btqoo76dFcgR9nQzGQQ1fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
